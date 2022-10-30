@@ -12,3 +12,29 @@ Here you will get every thing a Blockchain developer will need to learn.
 ## Blockchains List
 
 ## Top 10 Blockchain Networks For Developers
+
+### Ethereum
+
+ <details>
+<summary>Platforms Built Over Ethereum Network</summary>
+<br>
+This is how you dropdown.
+</details>
+
+ <details>
+<summary>Platforms Built Over Ethereum Network</summary>
+<br>
+This is how you dropdown.
+</details>
+
+ <details>
+<summary>Platforms Built Over Ethereum Network</summary>
+<br>
+This is how you dropdown.
+</details>
+
+ <details>
+<summary>Platforms Built Over Ethereum Network</summary>
+<br>
+This is how you dropdown.
+</details>

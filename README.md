@@ -9,7 +9,7 @@ Here you will get every thing a Blockchain developer will need to learn.
 </ul>
 
 ## WEB3 Developer Roadmap
-
+- :notebook: [Blockchain Roadmap: Zero to Hero](https://medium.com/@Kartikey_verma/blockchain-roadmap-zero-to-hero-9c89e963e59c)
 ## Blockchains List
 
 ## Top 10 Blockchain Networks For Developers

@@ -4,6 +4,7 @@ Here you will get every thing a Blockchain developer will need to learn.
 
 <ul>
 <li><a href="#-web3-developer-roadmap">Web3 Developer Roadmap</a></li>
+<li><a href="#-blockchains-list"></a>Blockchains List</li>
 <li><a href="#-Top-10-Blockchain-Networks-For-Developers">Top 10 Blockchain Networks For Developers</a></li>
 </ul>
 

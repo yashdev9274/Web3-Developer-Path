@@ -9,8 +9,7 @@ Here you will get every thing a Blockchain developer will need to learn.
 </ul>
 
 ## WEB3 Developer Roadmap
-- :notebook:<a href="https://medium.com/@Kartikey_verma/blockchain-roadmap-zero-to-hero-9c89e963e59c">Blockchain Roadmap: Zero to Hero</a>
-- :bulb:<a href="https://roadmap.sh/blockchain">Structured Roadmap to Learn Blockchain</a>
+- :notebook: [Blockchain Roadmap: Zero to Hero](https://medium.com/@Kartikey_verma/blockchain-roadmap-zero-to-hero-9c89e963e59c)
 ## Blockchains List
 
 <details>
@@ -81,14 +80,42 @@ This is how you dropdown.
 
 ### Ethereum
 
+- [Whitepaper](https://ethereum.org/en/whitepaper/) published by [Vitalik Buterin](https://twitter.com/VitalikButerin?s=20&t=WPTZffsZfzb9bAiPYVBtDw)
+
+https://ethereum.org/en/whitepaper/
+
  <details>
 <summary>Platforms Built Over Ethereum Network</summary>
+<br>
+
+<details>
+<summary>DAOs</summary>
 <br>
 This is how you dropdown.
 </details>
 
+<details>
+<summary>DeFi</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>DEXs</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>DeSci</summary>
+<br>
+This is how you dropdown.
+</details>
+
+</details>
+
  <details>
-<summary>Platforms Built Over Ethereum Network</summary>
+<summary>Ethereum Communitites</summary>
 <br>
 This is how you dropdown.
 </details>

@@ -212,8 +212,12 @@ Ethereum has a total of eight co-founders — an unusually large number for a cr
 ### How Ethereum Is Unique?
 
 Ethereum has pioneered the concept of a blockchain smart contract platform. Smart contracts are computer programs that automatically execute the actions necessary to fulfill an agreement between several parties on the internet. They were designed to reduce the need for trusted intermediates between contractors, thus reducing transaction costs while also increasing transaction reliability.
+ 
+Reference [CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
 
 </details>
+<!-- <br> -->
+
 
  <details>
 <summary>Platforms Built Over Ethereum Network</summary>
@@ -284,10 +288,22 @@ Contribute on [Github](https://github.com/maticnetwork)
  
  - [Polygon Whitepaper](https://github.com/maticnetwork/whitepaper)
  
+ Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and  infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.
+ 
+ Polygon (formerly Matic Network) is a Layer 2 scaling solution backed by Binance and Coinbase. The project seeks to stimulate mass adoption of cryptocurrencies by resolving the problems of scalability on many blockchains.
+ 
+ MATIC, the native tokens of Polygon, is an ERC-20 token running on the Ethereum blockchain. The tokens are used for payment services on Polygon and as a settlement currency between users who operate within the Polygon ecosystem. The transaction fees on Polygon sidechains are also paid in MATIC tokens.
+ 
+ ### About Founder
+ 
+ Polygon (formerly Matic Network) was launched in October 2017. Polygon was co-founded by Jaynti Kanani, Sandeep Nailwal and Anurag Arjun, two experienced blockchain developers and a business consultant.The team included co-founder of Polygon, Jaynti Kanani. Jaynti, a full-stack developer and blockchain engineer currently serves as the CEO of Polygon.
+ 
+ Reference [CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
+ 
 </details>
 
  <details>
-<summary>Platforms Built Over Ethereum Network</summary>
+<summary>Platforms Built Over Polygon Network</summary>
 <br>
 
 <details>
@@ -327,12 +343,13 @@ This is how you dropdown.
 
  <details>
 <summary>Polygon Communitites</summary>
-<br>
+<!-- <br> -->
+
  ### Twitter
  
- - [Polygon Twitter](https://twitter.com/0xPolygon?s=20&t=e4bg63DH3Ez0COjG2XwN1A) 
- - [Polygon Ecosystem Updates](https://twitter.com/0xPolygonNews?s=20&t=dlMcXKyqZ35FQG0xg95b5g)
- - [Polygon Developers](https://twitter.com/0xPolygonDevs)
+  - [Polygon Twitter](https://twitter.com/0xPolygon?s=20&t=e4bg63DH3Ez0COjG2XwN1A) 
+  - [Polygon Ecosystem Updates](https://twitter.com/0xPolygonNews?s=20&t=dlMcXKyqZ35FQG0xg95b5g)
+  - [Polygon Developers](https://twitter.com/0xPolygonDevs)
  
 </details>
 

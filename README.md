@@ -195,8 +195,24 @@ Contribute on [Github](https://github.com/ethereum/ethereum-org-website)
  <details>
 <summary>About It</summary>
 <br>
- - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) published by [Vitalik Buterin](https://twitter.com/VitalikButerin?s=20&t=WPTZffsZfzb9bAiPYVBtDw)
+
+ [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) published by [Vitalik Buterin](https://twitter.com/VitalikButerin?s=20&t=WPTZffsZfzb9bAiPYVBtDw)
  
+Ethereum is a decentralized open-source blockchain system that features its own cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies, as well as for the execution of decentralized smart contracts.
+
+Ethereum was first described in a 2013 whitepaper by Vitalik Buterin. Buterin, along with other co-founders, secured funding for the project in an online public crowd sale in the summer of 2014. The project team managed to raise $18.3 million in Bitcoin, and Ethereum’s price in the Initial Coin Offering (ICO) was $0.311, with over 60 million Ether sold. Taking Ethereum’s price now, this puts the return on investment (ROI) at an annualized rate of over 270%, essentially almost quadrupling your investment every year since the summer of 2014.
+ 
+### About Founders
+
+Ethereum has a total of eight co-founders — an unusually large number for a crypto project. They first met on June 7, 2014, in Zug, Switzerland.
+
+- Russian-Canadian [Vitalik Buterin](https://twitter.com/VitalikButerin?s=20&t=WPTZffsZfzb9bAiPYVBtDw) is perhaps the best known of the bunch. He authored the original white paper that first described Ethereum in 2013 and still works on improving the platform to this day. Prior to ETH, Buterin co-founded and wrote for the Bitcoin Magazine news website.
+- British programmer [Gavin Wood](https://twitter.com/gavofyork?s=20&t=mU7mHJq5HFbGD_m_rGgXyA) is arguably the second most important co-founder of ETH, as he coded the first technical implementation of Ethereum in the C++ programming language, proposed Ethereum’s native programming language Solidity and was the first chief technology officer of the Ethereum Foundation. Before Ethereum, Wood was a research scientist at Microsoft. Afterward, he moved on to establish the Web3 Foundation.
+
+### How Ethereum Is Unique?
+
+Ethereum has pioneered the concept of a blockchain smart contract platform. Smart contracts are computer programs that automatically execute the actions necessary to fulfill an agreement between several parties on the internet. They were designed to reduce the need for trusted intermediates between contractors, thus reducing transaction costs while also increasing transaction reliability.
+
 </details>
 
  <details>

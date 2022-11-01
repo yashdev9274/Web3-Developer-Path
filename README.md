@@ -195,7 +195,7 @@ Contribute on [Github](https://github.com/ethereum/ethereum-org-website)
  <details>
 <summary>About It</summary>
 <br>
-- [Whitepaper](https://ethereum.org/en/whitepaper/) published by [Vitalik Buterin](https://twitter.com/VitalikButerin?s=20&t=WPTZffsZfzb9bAiPYVBtDw)
+ - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) published by [Vitalik Buterin](https://twitter.com/VitalikButerin?s=20&t=WPTZffsZfzb9bAiPYVBtDw)
  
 </details>
 
@@ -265,7 +265,8 @@ Contribute on [Github](https://github.com/maticnetwork)
  <details>
 <summary>About It</summary>
 <br>
-- [Polygon Whitepaper](https://github.com/maticnetwork/whitepaper)
+ 
+ - [Polygon Whitepaper](https://github.com/maticnetwork/whitepaper)
  
 </details>
 
@@ -309,9 +310,14 @@ This is how you dropdown.
 <!-- <br> -->
 
  <details>
-<summary>Ethereum Communitites</summary>
+<summary>Polygon Communitites</summary>
 <br>
-This is how you dropdown.
+ ### Twitter
+ 
+ - [Polygon Twitter](https://twitter.com/0xPolygon?s=20&t=e4bg63DH3Ez0COjG2XwN1A) 
+ - [Polygon Ecosystem Updates](https://twitter.com/0xPolygonNews?s=20&t=dlMcXKyqZ35FQG0xg95b5g)
+ - [Polygon Developers](https://twitter.com/0xPolygonDevs)
+ 
 </details>
 
  <details>

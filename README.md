@@ -265,7 +265,7 @@ This is how you dropdown.
 </details>
 
  <details>
-<summary>Platforms Built Over Ethereum Network</summary>
+<summary>Ethereum Ecosystem Tokens</summary>
 <br>
 This is how you dropdown.
 </details>
@@ -354,9 +354,13 @@ This is how you dropdown.
 </details>
 
  <details>
-<summary>Platforms Built Over Ethereum Network</summary>
+<summary>Polygon Ecosystem Tokens </summary>
 <br>
-This is how you dropdown.
+
+ - [Polygon (MATIC)](https://polygon.technology/)
+ - [DAI](https://makerdao.com/en/)
+ - [CHAINLINK (LINK)](https://chain.link/)
+ - [Decentraland (MANA)](https://decentraland.org/)
 </details>
 
  <details>
@@ -367,4 +371,93 @@ This is how you dropdown.
 
 <br>
 
+### SOLANA ![Solana](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/solana.png "Solana (SOL)")
 
+Contribute on [Github](https://github.com/solana-labs)
+
+ <details>
+<summary>About It</summary>
+<br>
+ 
+ - [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
+ 
+Solana is a highly functional open source project that banks on blockchain technology’s permissionless nature to provide decentralized finance (DeFi) solutions. While the idea and initial work on the project began in 2017, Solana was officially launched in March 2020 by the Solana Foundation with headquarters in Geneva, Switzerland.
+
+The Solana protocol is designed to facilitate decentralized app (DApp) creation. It aims to improve scalability by introducing a proof-of-history (PoH) consensus combined with the underlying proof-of-stake (PoS) consensus of the blockchain.
+ 
+ ### About Founder
+ 
+ [Anatoly Yakovenko](https://twitter.com/aeyakovenko?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) is the most important person behind Solana. His professional career started at Qualcomm, where he quickly moved up the ranks and became senior staff engineer manager in 2015. Later on, his professional path shifted, and Yakovenko entered a new position as a software engineer at Dropbox.
+
+In 2017, Yakovenko started working on a project which would later materialize as Solana. He teamed up with his Qualcomm colleague Greg Fitzgerald, and they founded a project called Solana Labs. Attracting several more former Qualcomm colleagues in the process, the Solana protocol and SOL token were released to the public in 2020.
+ 
+ Reference [CoinMarketCap](https://coinmarketcap.com/currencies/solana/)
+ 
+</details>
+
+ <details>
+<summary>Platforms Built Over Solana Network</summary>
+<br>
+
+<details>
+<summary>DAOs</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>DeFi</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>DEXs</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>DeSci</summary>
+<br>
+This is how you dropdown.
+</details>
+ 
+<details>
+<summary>DeSocial</summary>
+<br>
+This is how you dropdown.
+</details>
+ 
+
+</details>
+
+<!-- <br> -->
+
+ <details>
+<summary>Solana Communitites</summary>
+<!-- <br> -->
+
+ ### Twitter
+ 
+  - [Polygon Twitter](https://twitter.com/0xPolygon?s=20&t=e4bg63DH3Ez0COjG2XwN1A) 
+  - [Polygon Ecosystem Updates](https://twitter.com/0xPolygonNews?s=20&t=dlMcXKyqZ35FQG0xg95b5g)
+  - [Polygon Developers](https://twitter.com/0xPolygonDevs)
+ 
+</details>
+
+ <details>
+<summary>Solana Ecosystem Tokens </summary>
+<br>
+
+ - [Polygon (MATIC)](https://polygon.technology/)
+ - [DAI](https://makerdao.com/en/)
+ - [CHAINLINK (LINK)](https://chain.link/)
+ - [Decentraland (MANA)](https://decentraland.org/)
+</details>
+
+ <details>
+<summary>Platforms Built Over Ethereum Network</summary>
+<br>
+This is how you dropdown.
+</details>

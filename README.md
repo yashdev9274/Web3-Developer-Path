@@ -271,9 +271,19 @@ This is how you dropdown.
 </details>
 
  <details>
-<summary>Platforms Built Over Ethereum Network</summary>
+<summary>For Developers 💻</summary>
 <br>
-This is how you dropdown.
+
+ Contribute on [Github](https://github.com/ethereum/ethereum-org-website)
+ 
+ <details>
+ <summary>For Developers</summary>
+ <br>
+
+  Contribute on [Github](https://github.com/ethereum/ethereum-org-website)
+
+ </details>
+ 
 </details>
 
 <br>
@@ -364,9 +374,19 @@ This is how you dropdown.
 </details>
 
  <details>
-<summary>Platforms Built Over Ethereum Network</summary>
+<summary>For Developers 💻</summary>
 <br>
-This is how you dropdown.
+
+ Contribute on [Github](https://github.com/maticnetwork)
+ 
+ <details>
+<summary>For Developers</summary>
+<br>
+
+ Contribute on [Github](https://github.com/maticnetwork)
+ 
+</details>
+ 
 </details>
 
 <br>
@@ -457,7 +477,17 @@ This is how you dropdown.
 </details>
 
  <details>
-<summary>Platforms Built Over Ethereum Network</summary>
+<summary>For Developers 💻</summary>
 <br>
-This is how you dropdown.
+
+ Contribute on [Github](https://github.com/solana-labs)
+ 
+ <details>
+<summary>For Developers</summary>
+<br>
+
+ Contribute on [Github](https://github.com/maticnetwork)
+ 
+</details>
+ 
 </details>

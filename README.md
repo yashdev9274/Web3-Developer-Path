@@ -224,15 +224,23 @@ Reference [CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
 <br>
 
 <details>
-<summary>DAOs</summary>
+<summary>Marketplace</summary>
 <br>
-This is how you dropdown.
+
+ [OPENSEA](https://opensea.io/)
+ [X2Y2](https://x2y2.io/)
+ [Rarible](https://rarible.com/)
+ 
 </details>
 
 <details>
 <summary>DeFi</summary>
 <br>
-This is how you dropdown.
+
+[1InchNetwork](https://1inch.io/)
+[Curve Swap](https://curve.fi/#/ethereum/swap)
+[Sushi](https://www.sushi.com/)
+
 </details>
 
 <details>

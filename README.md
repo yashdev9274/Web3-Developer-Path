@@ -27,7 +27,9 @@ Here you will get every thing a Blockchain developer will need to learn.
 <details>
 <summary>A</summary>
 <br>
-This is how you dropdown.
+
+[Algorand](https://www.algorand.foundation/)  is a self-sustaining, decentralized, blockchain-based network that supports a wide range of applications.
+
 </details>
 
 <details>

@@ -29,6 +29,7 @@ Here you will get every thing a Blockchain developer will need to learn.
 <br>
 
 [Algorand](https://www.algorand.foundation/)  is a self-sustaining, decentralized, blockchain-based network that supports a wide range of applications.
+[Avalanche](https://www.avax.network/) is a layer one blockchain that functions as a platform for decentralized applications and custom blockchain networks. 
 
 </details>
 

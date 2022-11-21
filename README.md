@@ -36,7 +36,9 @@ Here you will get every thing a Blockchain developer will need to learn.
 <details>
 <summary>B</summary>
 <br>
-This is how you dropdown.
+
+[Binance BNB](https://bnbchain.org/en) Binance is a unique ecosystem of decentralized, blockchain-based networks. The company has grown to be the leading crypto exchange in a number of countries, and their side organizations are attracting significant interest as well.
+
 </details>
 
 <details>

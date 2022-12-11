@@ -44,7 +44,9 @@ Here you will get every thing a Blockchain developer will need to learn.
 <details>
 <summary>C</summary>
 <br>
-This is how you dropdown.
+
+[Cardano](https://www.cardano.org/) Cardano was founded back in 2017, and named after the 16th century Italian polymath Gerolamo Cardano. The native ADA token takes its name from the 19th century mathematician Ada Lovelace, widely regarded as the world’s first computer programmer. The ADA token is designed to ensure that owners can participate in the operation of the network. Because of this, those who hold the cryptocurrency have the right to vote on any proposed changes to the software.
+
 </details>
 
 <details>

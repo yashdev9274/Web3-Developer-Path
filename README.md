@@ -1,5 +1,7 @@
 # <a href="https://github.com/yashdev9274" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> Full Guided Path For WEB3 Developer
 
+# "Soon I'll turn this repo into full fleshed website."
+
 Here you will get every thing a Blockchain developer will need to learn. 
 
 <ul>

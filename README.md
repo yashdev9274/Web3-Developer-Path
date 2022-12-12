@@ -276,7 +276,15 @@ This is how you dropdown.
  <details>
 <summary>Ethereum Communitites</summary>
 <br>
-This is how you dropdown.
+
+[@ethereum](https://twitter.com/ethereum): Official account of the Ethereum Foundation.
+
+[@ethdotorg](https://twitter.com/ethdotorg): The portal to Ethereum, built for our growing global community.
+
+[Ethereum Foundation](https://www.youtube.com/c/EthereumFoundation): Keep up to date with the latest from the Ethereum Foundation.
+
+[Ethereum Cat Herders](https://discord.com/invite/Nz6rtfJ8Cu): Community oriented around offering project management support to Ethereum development.
+
 </details>
 
  <details>

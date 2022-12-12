@@ -244,9 +244,11 @@ Reference [CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
 <summary>DeFi</summary>
 <br>
 
-[1InchNetwork](https://1inch.io/)
-[Curve Swap](https://curve.fi/#/ethereum/swap)
-[Sushi](https://www.sushi.com/)
+ [1InchNetwork](https://1inch.io/)
+ 
+ [Curve Swap](https://curve.fi/#/ethereum/swap)
+
+ [Sushi](https://www.sushi.com/)
 
 </details>
 

@@ -281,13 +281,34 @@ This is how you dropdown.
 <summary>Ethereum Communitites</summary>
 <br>
 
+### Twitter
+
 [@ethereum](https://twitter.com/ethereum): Official account of the Ethereum Foundation.
 
 [@ethdotorg](https://twitter.com/ethdotorg): The portal to Ethereum, built for our growing global community.
 
+[List of influential Ethereum twitter accounts](https://hive.one/c/ethereum?page=1)
+
+### YouTube
+
 [Ethereum Foundation](https://www.youtube.com/c/EthereumFoundation): Keep up to date with the latest from the Ethereum Foundation.
 
+### Reddit
+
+[r/ethereum](https://www.reddit.com/r/ethereum/): Updates Related to Ethereum
+
+### Discord
+
 [Ethereum Cat Herders](https://discord.com/invite/Nz6rtfJ8Cu): Community oriented around offering project management support to Ethereum development.
+
+[Ethereum Hackers](https://ethglobal.co/discord): Discord chat run by ETHGlobal: an online community for Ethereum hackers all over the world.
+
+[CryptoDevs](https://discord.gg/5W5tVb3): Ethereum development focused Discord community.
+
+[EthStaker Discord](https://discord.io/ethstaker): Community oriented around offering project management support to Ethereum development.
+
+[Web3 University](https://discord.gg/ZH5aXDgWEU): Community focused on learning web3 development.
+
 
 </details>
 

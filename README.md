@@ -23,6 +23,61 @@ Here you will get every thing a Blockchain developer will need to learn.
 -  [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript ](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - [freeCodeCamp 🔥:](https://www.freecodecamp.org/)
 -  [How to develop an NFT Smart Contract (ERC721) with Alchemy ](https://www.youtube.com/watch?v=veBu03A6ptw) - [Vitto Rivabella](https://vitto.cc/)
 
+## IDE platforms:
+
+### 1. Remix
+
+[Remix](https://remix.ethereum.org/) is a free and open-source online IDE for Solidity development on Ethereum or EVM-compatible blockchains. Remix is popular because it allows users to get started quickly and supports the entire software development lifecycle.
+
+It's features:
+
+- It solely supports browsers
+- It comes with a nice compiler
+- Server-side components are not found with it
+- You can easily build Ethereum contracts using Solidity with it.
+
+### 2. ETHFiddle
+
+[EthFiddle](https://ethfiddle.com/) is a Loom Network-powered online Solidity IDE that was launched in 2017. The simple user interface of EthFiddle allows developers to write, test, and debug smart contracts in the browser for free.
+
+It's features:
+
+- It enables users to readily give out Solidity code snippets among their loved ones.
+- It also gives you the opportunity to check out the web for nice code snippets.
+
+### 3. JetBrains
+
+[JetBrains](https://www.jetbrains.com/)' IntelliJ IDEA is an integrated development environment (IDE) that was released in 2001. It was written in Java and was designed primarily to support software written in Java, Kotlin, and other JVM languages.
+
+It's feature:
+
+- Solidity plugin is compatible with any IDEs under JetBrains.
+
+### 4. Yakindu
+
+[Yakindu](https://marketplace.eclipse.org/content/yakindu-solidity-tools) is a free, Eclipse-based IDE for developing smart contracts in Solidity and Ethereum. Yakindu was created in 2017 by itemis AG and is still in use as an open-source IDE.
+
+Code completion, live validation, code navigation, templates, semantic highlighting, Solidity compiler integration, and many other features are available in Yakindu. Its simple user interface is similar to that of the Eclipse IDE, making it familiar to existing users.
+
+It's features:
+
+- Live validation.
+- It offers code completion.
+- Integration of code compiler.
+- Semantic highlighting.
+- Code navigation.
+
+### 5. Embark
+
+[Embark](https://framework.embarklabs.io/) is a command line interface (CLI) that includes a set of developer tools for creating decentralised applications (dApps). Its developer environment goes beyond the framework to provide a one-stop shop for the decentralised application lifecycle.
+
+It's feature:
+
+- Embark is a framework offers you another option of a software that can be used to create, test and deploy applications
+
+
+
+
 <br>
 
 ## Blockchains List

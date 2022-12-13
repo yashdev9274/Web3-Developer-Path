@@ -12,6 +12,8 @@ Here you will get every thing a Blockchain developer will need to learn.
 
 ## WEB3 Developer Roadmap
 
+[Blockchian/Web3 Developer Roadmap](https://whimsical.com/blockchain-roadmap-BHdhWb6i7EcWmAWC3LafPh) - By Yash Dewasthale
+
 ### Reading Section 📖:
 
 -  [Blockchain Roadmap: Zero to Hero](https://medium.com/@Kartikey_verma/blockchain-roadmap-zero-to-hero-9c89e963e59c) - [Kartikey Verma](https://medium.com/@Kartikey_verma)↗️

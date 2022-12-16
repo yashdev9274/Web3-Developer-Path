@@ -379,6 +379,10 @@ This is how you dropdown.
 <summary>For Developers 💻</summary>
 <br>
 
+ Introduction to [Blockchain](https://youtu.be/_160oMzblY8) - [Anders Brownworth](https://twitter.com/anders94)
+ 
+ 'A PYTHON DEVELOPER'S INTRODUCTION TO ETHEREUM' an [article](https://ethereum.org/en/developers/tutorials/a-developers-guide-to-ethereum-part-one/) - Marc Garreau
+ 
  Contribute on [Github](https://github.com/ethereum/ethereum-org-website)
  
  <details>

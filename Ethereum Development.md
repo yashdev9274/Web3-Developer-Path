@@ -15,3 +15,7 @@ Courses/Lectures
 Yehoshua Zlotogorski from Alpe Audio reads the most important papers and articles on Proof of stake, sharding, blockchains, cryptocurrency gaming and economies, and everything else you need to know.
 
 3. [Eth Dailu](https://podcasts.google.com/feed/aHR0cHM6Ly9ldGhlcmV1bS5saWJzeW4uY29tL3Jzcw) Daily updates on Ethereum are provided in this briefing. Keep an eye on this space for developments on the  layer 2, DeFi, NFTs, law, and security.
+
+4. hsdfkjdshf 
+
+5. jksdfdshf

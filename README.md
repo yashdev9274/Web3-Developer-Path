@@ -117,7 +117,9 @@ This is how you dropdown.
 <details>
 <summary>E</summary>
 <br>
-This is how you dropdown.
+
+[Ethereum](https://ethereum.org/en/) is a decentralized open-source blockchain system that features its own cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies, as well as for the execution of decentralized smart contracts.
+
 </details>
 
 <details>

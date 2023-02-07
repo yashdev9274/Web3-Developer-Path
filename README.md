@@ -195,7 +195,14 @@ This is how you dropdown.
 <details>
 <summary>Q</summary>
 <br>
-This is how you dropdown.
+
+ [Quant](https://quant.network/) With a June 2018 debut, Quant set out to connect networks and blockchains on a worldwide scale while maintaining the network's effectiveness and compatibility. By developing the first blockchain operating system, it is the first initiative to address the interoperability issue.
+
+
+The project is designed as a distributed ledger operating system—and Overledger Network—for tying several blockchain networks together. The initiative claims to be the first blockchain-specific operating system.
+
+Quant's major goal is to close the gap between various blockchains by utilising Overledger. The Overledger network, which Quant describes as the ecosystem on which the future ecosystem of the digital economy would be created, serves as the project's skeleton.
+ 
 </details>
 
 <details>

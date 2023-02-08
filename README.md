@@ -146,6 +146,10 @@ This is how you dropdown.
 
 Hedera A distributed ledger technology is called hashgraph (DLT). The project website claims that one way Hedera differs from other blockchains is that it makes use of a brand-new consensus technique called hashgraph. It aims to accelerate transaction processing and execution, get rid of delays, and smooth out the TPS (transactions per second) indicator. Hashgraph is promoted as an improvement in transaction cost, performance, and scalability.
 
+Hedera's native token, HBAR, fuels the network's apps. Network services, transaction costs, in-app purchases, and micropayments are all paid for with HBAR. With HBAR tokens, developers can pay network fees for services like working with smart contracts, storing files, and exchanging currencies. Network nodes are rewarded and paid with HBAR.
+
+Decentralized governance is a unique feature of Hedera Hashgraph. The Governing Council makes all significant decisions including pricing strategy, software improvements, and wealth management.
+
 </details>
 
 <details>

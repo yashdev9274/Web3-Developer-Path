@@ -141,7 +141,11 @@ This is how you dropdown.
 <details>
 <summary>H</summary>
 <br>
-This is how you dropdown.
+
+[Hedera](https://www.hedera.com/) The native cryptocurrency of Hedera Hashgraph, which positions itself as a rival to conventional blockchain technology and seeks to excel in speed, efficiency, and security, is Hedera (HBAR). 
+
+Hedera A distributed ledger technology is called hashgraph (DLT). The project website claims that one way Hedera differs from other blockchains is that it makes use of a brand-new consensus technique called hashgraph. It aims to accelerate transaction processing and execution, get rid of delays, and smooth out the TPS (transactions per second) indicator. Hashgraph is promoted as an improvement in transaction cost, performance, and scalability.
+
 </details>
 
 <details>

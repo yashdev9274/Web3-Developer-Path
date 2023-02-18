@@ -1,1 +1,0 @@
-The future of the web3 built #onPolygon.

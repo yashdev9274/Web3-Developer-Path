@@ -109,6 +109,10 @@ It's feature:
 
 [Cardano](https://www.cardano.org/) Cardano was founded back in 2017, and named after the 16th century Italian polymath Gerolamo Cardano. The native ADA token takes its name from the 19th century mathematician Ada Lovelace, widely regarded as the world’s first computer programmer. The ADA token is designed to ensure that owners can participate in the operation of the network. Because of this, those who hold the cryptocurrency have the right to vote on any proposed changes to the software.
 
+[Chainlink LINK](https://chain.link/) Chainlink, a blockchain abstraction layer that was established in 2017, enables globally interconnected smart contracts. Chainlink, a decentralised oracle network, enables blockchains to interact securely with external data feeds, events, and payment methods while providing the crucial off-chain information required by sophisticated smart contracts, which are quickly taking over as the primary type of digital contract.
+
+A sizable open-source community of data producers, node operators, smart contract developers, researchers, security auditors, and others powers the Chainlink Network. The firm is committed to ensuring that all node operators and users who want to contribute to the network are assured decentralised involvement.
+
 </details>
 
 <details>
@@ -140,7 +144,15 @@ This is how you dropdown.
 <details>
 <summary>H</summary>
 <br>
-This is how you dropdown.
+
+[Hedera](https://www.hedera.com/) The native cryptocurrency of Hedera Hashgraph, which positions itself as a rival to conventional blockchain technology and seeks to excel in speed, efficiency, and security, is Hedera (HBAR). 
+
+Hedera A distributed ledger technology is called hashgraph (DLT). The project website claims that one way Hedera differs from other blockchains is that it makes use of a brand-new consensus technique called hashgraph. It aims to accelerate transaction processing and execution, get rid of delays, and smooth out the TPS (transactions per second) indicator. Hashgraph is promoted as an improvement in transaction cost, performance, and scalability.
+
+Hedera's native token, HBAR, fuels the network's apps. Network services, transaction costs, in-app purchases, and micropayments are all paid for with HBAR. With HBAR tokens, developers can pay network fees for services like working with smart contracts, storing files, and exchanging currencies. Network nodes are rewarded and paid with HBAR.
+
+Decentralized governance is a unique feature of Hedera Hashgraph. The Governing Council makes all significant decisions including pricing strategy, software improvements, and wealth management.
+
 </details>
 
 <details>
@@ -194,7 +206,14 @@ This is how you dropdown.
 <details>
 <summary>Q</summary>
 <br>
-This is how you dropdown.
+
+ [Quant](https://quant.network/) With a June 2018 debut, Quant set out to connect networks and blockchains on a worldwide scale while maintaining the network's effectiveness and compatibility. By developing the first blockchain operating system, it is the first initiative to address the interoperability issue.
+
+
+The project is designed as a distributed ledger operating system—and Overledger Network—for tying several blockchain networks together. The initiative claims to be the first blockchain-specific operating system.
+
+Quant's major goal is to close the gap between various blockchains by utilising Overledger. The Overledger network, which Quant describes as the ecosystem on which the future ecosystem of the digital economy would be created, serves as the project's skeleton.
+ 
 </details>
 
 <details>

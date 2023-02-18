@@ -12,6 +12,9 @@ Here you will get every thing a Blockchain developer will need to learn.
 
 ## WEB3 Developer Roadmap
 
+[Learn WEB3 Development with me](Developers\Docs).
+
+
 [Blockchian/Web3 Developer Roadmap](https://whimsical.com/blockchain-roadmap-BHdhWb6i7EcWmAWC3LafPh) - By Yash Dewasthale
 
 ### Reading Section 📖:
@@ -27,23 +30,18 @@ Here you will get every thing a Blockchain developer will need to learn.
 
 ### 1. Remix
 
-[Remix](https://remix.ethereum.org/) is a free and open-source online IDE for Solidity development on Ethereum or EVM-compatible blockchains. Remix is popular because it allows users to get started quickly and supports the entire software development lifecycle.
-
-It's features:
+[Remix](https://remix.ethereum.org/) is a free and open-source online IDE for Solidity development on Ethereum or EVM-compatible blockchains. Remix is popular because it allows users to get started quickly and supports the entire software development lifecycle.Its features:
 
 - It solely supports browsers
 - It comes with a nice compiler
-- Server-side components are not found with it
+- Server-side components are not found in it
 - You can easily build Ethereum contracts using Solidity with it.
 
 ### 2. ETHFiddle
 
-[EthFiddle](https://ethfiddle.com/) is a Loom Network-powered online Solidity IDE that was launched in 2017. The simple user interface of EthFiddle allows developers to write, test, and debug smart contracts in the browser for free.
+[EthFiddle](https://ethfiddle.com/) is a Loom Network-powered online Solidity IDE that was launched in 2017. The simple user interface of EthFiddle allows developers to write, test, and debug smart contracts in the browser for free. Its features:
 
-It's features:
-
-- It enables users to readily give out Solidity code snippets among their loved ones.
-- It also gives you the opportunity to check out the web for nice code snippets.
+- It enables users to readily give out Solidity code snippets to their loved ones. It also allows you to check out the web for nice code snippets.
 
 ### 3. JetBrains
 

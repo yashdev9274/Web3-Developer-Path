@@ -255,7 +255,12 @@ This is how you dropdown.
 <details>
 <summary>X</summary>
 <br>
-This is how you dropdown.
+
+[XRP](https://xrpl.org/)
+
+What Is the XRP Ledger and XRP?
+The XRP Ledger (XRPL), a decentralised, open-source technology, was introduced in 2021. The XRP Ledger offers advantages such as low transaction costs ($0.0002 on average), quick settlement times (3-5 seconds), scalability (1,500 transactions per second), and intrinsically green characteristics (carbon-neutral and energy-efficient). The first decentralised exchange (DEX) and unique tokenization functionalities are also included in the XRP Ledger technology. The XRP Ledger has successfully closed 70 million ledgers since its launch in 2012.
+
 </details>
 
 <details>

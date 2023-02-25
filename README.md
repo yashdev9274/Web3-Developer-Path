@@ -205,7 +205,8 @@ This is how you dropdown.
 <summary>P</summary>
 <br>
 
-[Polkadot](https://polkadot.network/) 
+[Polkadot](https://polkadot.network/) In order to enable cross-chain transfers of any data or asset kinds, not only tokens, Polkadot is an open-source sharded multichain protocol that links and secures a network of specialised blockchains. This enables blockchains to communicate with one another. Polkadot was created to serve as the framework for the Web3, often known as a decentralised internet of blockchains.
+
 
 
 </details>

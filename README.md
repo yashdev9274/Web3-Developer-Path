@@ -207,7 +207,7 @@ This is how you dropdown.
 
 [Polkadot](https://polkadot.network/) In order to enable cross-chain transfers of any data or asset kinds, not only tokens, Polkadot is an open-source sharded multichain protocol that links and secures a network of specialised blockchains. This enables blockchains to communicate with one another. Polkadot was created to serve as the framework for the Web3, often known as a decentralised internet of blockchains.
 
-
+Because it supports and explains the structure of a network of layer 1 blockchains known as parachains, Polkadot is referred to as a layer-0 metaprotocol (parallel chains). As a metaprotocol, Polkadot has the ability to forklessly and autonomously update its own codebase in accordance with the wishes of its token holder community.
 
 </details>
 

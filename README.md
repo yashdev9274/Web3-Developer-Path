@@ -136,7 +136,9 @@ Ethereum was first described in a 2013 whitepaper by Vitalik Buterin. Buterin, a
 <details>
 <summary>F</summary>
 <br>
-This is how you dropdown.
+
+[Filecoin](https://filecoin.io/) is a decentralized storage system that aims to “store humanity’s most important information.” The project raised $205 million in an initial coin offering (ICO) in 2017, and initially planned a launch date for mid-2019. However, the launch date for the Filecoin mainnet was pushed back until block 148,888, which is expected in mid-October 2020.
+
 </details>
 
 <details>

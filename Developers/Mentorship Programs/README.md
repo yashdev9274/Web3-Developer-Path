@@ -14,3 +14,9 @@ Apply here: https://fellowship.mlh.io/programs/web3-engineering
 ## Polygon Fellowship
 
 Apply here: https://polygon.technology/polygon-fellowship 
+
+## web3 Studios (w3s fellows)
+
+w3s fellows is a top-talent program for business students, graduates, and young professionals leaping into web3. We provide a community and help our partner companies to hire the smartest minds in web3.
+
+Apply here : https://docs.google.com/forms/d/e/1FAIpQLSeXS4usDAzCsihoGjEZ-h_r-0DQuag9dt1l0KlRtrQSUsOQqg/viewform

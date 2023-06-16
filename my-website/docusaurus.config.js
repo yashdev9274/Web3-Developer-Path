@@ -100,8 +100,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/BuildersChain',
               },
               {
                 label: 'Discord',
@@ -109,7 +109,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/builderschain?s=20',
               },
             ],
           },
@@ -122,7 +122,15 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/yashdev9274',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/dew_yashtwt',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://linkedin.com/in/yash-dewasthale',
               },
             ],
           },

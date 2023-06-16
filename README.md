@@ -18,9 +18,9 @@ This project was buit upon:
 
 ## 🧰 Contributing
 Whether you are a community member or not, we would love your point of view! Feel free to first check out our
-- [contribution guidelines](https://github.com/FrancescoXX/free-Web3-resources/blob/6d8457aa1dada8a773791f68efc175bd534866ad/CONTRIBUTING.md) 
+- [contribution guidelines](https://github.com/yashdev9274/Web3-Developer-Path/blob/main/CONTRIBUTING.md) 
 - The guide outlines the process for **creating an issue** and **submitting a pull request.**
-- [code of conduct](https://github.com/FrancescoXX/free-Web3-resources/blob/6d8457aa1dada8a773791f68efc175bd534866ad/CODE_OF_CONDUCT.md)
+- [code of conduct](https://github.com/yashdev9274/Web3-Developer-Path/blob/main/CODE_OF_CONDUCT.md)
 - By following the guide we've set, your contribution will more likely be accepted if it enhances the project. 
 
 ## 🛠️ Quickstart

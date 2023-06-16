@@ -1,4 +1,4 @@
-# 🚀FREE Web3 resources
+# Web3-Blockchain Developer Resources by - BuildersChain Community
 
 Welcome to the ultimate hangout spot for Web3 enthusiasts! We're a community of like-minded individuals who are passionate about decentralized apps and the Ethereum network. Our goal is to create an inclusive and helpful environment where content creators can share their experiences and resources to reach their goals.
 
@@ -9,7 +9,7 @@ Want to have some fun and be a part of the Web3 revolution? Join our community a
 
 Don't miss out on the Web3 action. Join us now and let's shape the future together! 🌟
 
-<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a><a href="https://twitter.com/4ccommunityhq"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+<a href="https://discord.gg/CkG3dEqsE2"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a><a href="https://twitter.com/builderschain?s=20"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 
 ## ⚙️ Tech Stack
 This project was buit upon:
@@ -34,7 +34,7 @@ It's great that you've choosen this project to contribute to. You have 2 options
 
    💡 The easiest way to contribute is as follows:
 
-🔗 Go to our website [freeweb3resources.com](https://www.freeweb3resources.com/), click on `Get Started`<br>
+🔗 Go to our website [BuildersChain](), click on `Get Started`<br>
 - This will take you to the docs section and from there you can navigate the sidebar to find the section for your resource.<br>
 - Now you should be able to see a list of resources and an edit button underneath.<br>
 - Click the edit button , which will take you to this GitHub repository.<br>
@@ -59,7 +59,7 @@ $ npm start
 ## 🖋️ Note :
 + This repository started as a README file with a list of resources, as you can imagine with many contributions.
 + It made sense to create a website and have more structure.
-+ We are now working on the website : [freeweb3resources.com](https://www.freeweb3resources.com/) to easily view and edit these resources 🔗 
++ We are now working on the website : [BuildersChain]() to easily view and edit these resources 🔗 
 
 
 ## 🛡️License

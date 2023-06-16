@@ -1,6 +1,6 @@
 # Web3-Blockchain Developer Resources by - BuildersChain Community
 
-# "Soon I'll turn this repo into full fledged website."
+
 Welcome to the ultimate hangout spot for Web3 enthusiasts! We're a community of like-minded individuals who are passionate about decentralized apps and the Ethereum network. Our goal is to create an inclusive and helpful environment where content creators can share their experiences and resources to reach their goals.
 
 Are you new to the world of blockchain?🤔 No problem! Our FREE resources will make it easy for you to get started with building decentralized apps and interacting with the Ethereum network. Whether you're a beginner or a seasoned pro, we've got you covered
